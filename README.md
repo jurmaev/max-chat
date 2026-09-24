@@ -2,6 +2,8 @@
 
 Минимальный веб-интерфейс для отправки и получения текстовых сообщений в мессенджере **MAX** через [GREEN-API](https://green-api.com/max). Внешний вид — по мотивам [web.max.ru](https://web.max.ru/).
 
+**Демо:** https://max-chat-seven.vercel.app
+
 Стек: React 19, TypeScript, Vite. Без UI-библиотек и стейт-менеджеров.
 
 ## Что умеет
