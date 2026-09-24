@@ -16,7 +16,7 @@
 Нужен Node.js 20.19+ или 22.12+.
 
 ```bash
-git clone <ссылка на репозиторий>
+git clone https://github.com/jurmaev/max-chat.git
 cd max-chat
 npm install
 npm run dev
